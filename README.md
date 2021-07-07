@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I am iCyphy
+#### I am known as iCyphy/iCyphyDevvvvv/Cat-Ware/cat war and also known as the cyphysense dev/owner
+![I am known as iCyphy/iCyphyDevvvvv/Cat-Ware/cat war and also known as the cyphysense dev/owner](https://cdn.discordapp.com/attachments/829266265063161876/862283582922555412/ez.png)
 
-<!--
-**iCyphyDevvvvvv/iCyphyDevvvvvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I made cyphysense for fun it's every thing about roblox exploiting cyphysense has lot of features!
 
-Here are some ideas to get you started:
+Skills: Lua & C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 cyphysense owner
+- 😎 darkout and ryoku owner.
+- 😡 delta , sirhurt , protosmasher & sentinel hater
+- 😇 synapse lover
+- 💻 pro gamer
